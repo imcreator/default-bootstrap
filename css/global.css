@@ -6515,9 +6515,8 @@ table.table_block td {
 .block h4 {
   font: 600 18px/22px "Open Sans", sans-serif;
   color: #555454;
-  background: #f6f6f6;
+  background: #FBFBFB none repeat scroll 0% 0%;
   border-top: 5px solid #333;
-  text-transform: uppercase;
   padding: 14px 5px 17px 20px;
   margin-bottom: 20px; }
   @media (min-width: 768px) and (max-width: 991px) {
@@ -8569,3 +8568,7 @@ div.star.star_hover:after {
   cursor: pointer; }
 
 /*# sourceMappingURL=global.css.map */
+/* Custom StyleSheets MT2016*/
+#left_column {
+  padding-right: 4%;
+}
